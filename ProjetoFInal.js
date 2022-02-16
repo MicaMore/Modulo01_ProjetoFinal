@@ -217,4 +217,4 @@ Escolha_(inicio.historia, // Inicia a função pela primeira vez.
          inicio.pergunta, 
          inicio.opcoes, 
          inicio.pontuacao, 
-         inicio.caminho)
+         inicio.caminho);
